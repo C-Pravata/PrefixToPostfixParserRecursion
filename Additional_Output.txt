@@ -1,0 +1,11 @@
+AB+C-D+
+Error [1]: Invalid expression - too many operands or operators
+Error [2]: Invalid expression - too many operands or operators
+ABC*+D+
+AB*CD*+
+AB+C+D+
+Error [6]: Invalid expression
+Error [7]: Invalid expression
+ABC*+
+Error [9]: Invalid expression - too many operands or operators
+Error [10]: Invalid expression - too many operands or operators

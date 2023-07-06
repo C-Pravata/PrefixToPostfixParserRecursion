@@ -1,0 +1,11 @@
+AB+C-
+ABC+-
+AB-C+DEF-+$
+ABCDE-+$*EF*-
+ABC+*CBA-+*
+Error [5]: Invalid expression - spaces not allowed
+Error [6]: Invalid expression
+Error [7]: Invalid expression
+ABC+$CBA-+*
+AB0+/CBA+-/
+ABC^$CBA-+*
